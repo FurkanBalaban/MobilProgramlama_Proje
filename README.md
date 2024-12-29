@@ -1,5 +1,3 @@
-# MobilProgramlama_Proje
-Mobil Programlama proje ödevidir 
 # Akıllı Seyahat Asistanı
 
 ## Proje Hakkında
@@ -64,7 +62,7 @@ Akıllı Seyahat Asistanı, kullanıcıların seyahat planlarını organize etme
 - **Main Branch**: Çalışır durumdaki tüm özelliklerin birleştiği ana branch.
 - **Develop Branch**: Tüm geliştirme branch'lerinin birleştirildiği branch.
 - **Özellik Branch'leri**:
-  - `develop-CoreData`: CoreData ile ilgili işlemler.
-  - `develop-SwiftUI-Profil-FavoriMekan`: Favori mekanlar özelliği.
-  - `develop-SwiftUI-Profil-FavoriMekan,develop-SwiftUI-Kullanıcı-İşlemleri`: UI geliştirmeleri (Profil, Tema Modu vb.).
-  - `develop-WeatherAPI`: Hava durumu API entegrasyonu.
+  - `develop-coredata`: CoreData ile ilgili işlemler.
+  - `develop-favorite-places`: Favori mekanlar özelliği.
+  - `develop-ui`: UI geliştirmeleri (Profil, Tema Modu vb.).
+  - `develop-weather-api`: Hava durumu API entegrasyonu.
